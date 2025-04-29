@@ -16,7 +16,7 @@
 - **Python, Visual Basic, C++, SQL**
 - **Tableau, Streamlit**
 - **Regression, Classification**
-- ** Clustering**
+- **Clustering**
 - **Predictive Modelling**
 
  
