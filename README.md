@@ -13,7 +13,14 @@
 
 
 **Skills**
+astering advanced programming techniques**
+- **Designing and delivering impactful data-driven projects**
+- **Exploring and adoptin
+
+
+
 Programming Languages: Python, Visual Basic, C++, SQL
+
 Databases: Microsoft Access, Oracle Database
 Data Visualization: Tableau, Streamlit
 Machine Learning:
