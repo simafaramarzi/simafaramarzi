@@ -12,19 +12,13 @@
 - **Exploring and adopting cutting-edge technologies**
 
 
-Skills
+**Skills**
 Programming Languages: Python, Visual Basic, C++, SQL
-
 Databases: Microsoft Access, Oracle Database
-
 Data Visualization: Tableau, Streamlit
-
 Machine Learning:
-
 Supervised Learning: Regression, Classification
-
 Unsupervised Learning: Clustering
-
 Predictive Modelling
 
    
