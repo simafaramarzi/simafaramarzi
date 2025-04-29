@@ -13,20 +13,13 @@
 
 
 **Skills**
-astering advanced programming techniques**
-- **Designing and delivering impactful data-driven projects**
-- **Exploring and adoptin
-
-
-
-Programming Languages: Python, Visual Basic, C++, SQL
-
-Databases: Microsoft Access, Oracle Database
-Data Visualization: Tableau, Streamlit
-Machine Learning:
-Supervised Learning: Regression, Classification
-Unsupervised Learning: Clustering
-Predictive Modelling
+  Programming Languages: Python, Visual Basic, C++, SQL
+  Databases: Microsoft Access, Oracle Database
+  Data Visualization: Tableau, Streamlit
+  Machine Learning:
+  Supervised Learning: Regression, Classification
+  Unsupervised Learning: Clustering
+  Predictive Modelling
 
    
 Access me through: 
