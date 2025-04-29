@@ -13,18 +13,13 @@
 
 
 📊 Skills:
-
-                                    
-Python, Visual Basic, C++, SQL                                  
-Tableau, Streamlit
-Python, Visual Basic, C++, SQL
-Microsoft Access, Oracle Database
-Tableau, Streamlit 
-Supervised Learning: Regression, Classification
-Unsupervised Learning: Clustering
-Predictive Modelling 
-                                                                    
- README file with personal informatio
+   Python, Visual Basic, C++, SQL
+   Microsoft Access, Oracle Database                                                                 
+   Tableau, Streamlit 
+   Supervised Learning: Regression, Classification
+   Unsupervised Learning: Clustering
+   Predictive Modelling 
+   
 Access me through: 
 
 - ✉️️ simafaramarzi780@gmail.com
