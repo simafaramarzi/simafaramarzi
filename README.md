@@ -14,16 +14,16 @@
 
 📊 Skills:
 
- 🖥️ Programming Languages                                         
- Python, Visual Basic, C++, SQL                                  
- 📊 Data Visualization
- Tableau, Streamlit
- 🖥️ Programming Languages 
- Python, Visual Basic, C++, SQL
- 🗄️ Databases & Data Tools 
- Microsoft Access, Oracle Database
- 📊 Data Visualization 
- Tableau, Streamlit 
+🖥️ Programming Languages                                         
+Python, Visual Basic, C++, SQL                                  
+📊 Data Visualization
+Tableau, Streamlit
+🖥️ Programming Languages 
+Python, Visual Basic, C++, SQL
+🗄️ Databases & Data Tools 
+Microsoft Access, Oracle Database
+📊 Data Visualization 
+Tableau, Streamlit 
 
  🤖  Machine Learning & Analytics 
  Supervised Learning: Regression, Classification
