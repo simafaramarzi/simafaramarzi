@@ -13,13 +13,13 @@
 
 
 **Skills**
- Python, Visual Basic, C++, SQL
- Microsoft Access, Oracle Database
- Tableau, Streamlit
- Supervised Learning: Regression, Classification
- Clustering
- Predictive Modelling
+- **Python, Visual Basic, C++, SQL**
+- **Tableau, Streamlit**
+- **Regression, Classification**
+- ** Clustering**
+- **Predictive Modelling**
 
+ 
    
 Access me through: 
 
