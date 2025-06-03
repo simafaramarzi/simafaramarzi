@@ -13,11 +13,12 @@
 
 
 **Skills**
-- **Python, Visual Basic, C++, SQL**
+- **Python, Visual Basic, SQL**
 - **Tableau, Streamlit**
 - **Regression, Classification**
 - **Clustering**
 - **Predictive Modelling**
+- - **data pipelines, storage, analytics, ML integration via AWS Academy course**
 
  
    
