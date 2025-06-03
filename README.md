@@ -18,7 +18,7 @@
 - **Regression, Classification**
 - **Clustering**
 - **Predictive Modelling**
-- **data pipelines, storage, analytics, ML integration via AWS Academy course**
+- **Data Pipelines, Storage, Analytics, ML integration via AWS Academy course**
 
  
    
