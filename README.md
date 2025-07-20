@@ -1,10 +1,8 @@
 # Hello! 👋 I'm Sima
 
+ I have a profound interest in computer science and programming, with a dedicated focus on data science and advanced data analytics. With over one year of practical experience in data analysis, I have contributed to projects involving data cleaning, time series modeling, and the development of interactive dashboards aimed at extracting actionable insights to support strategic decision-making processes. My primary objective is to transform raw data into meaningful and usable information that enhances organizational performance. By leveraging rigorous analytical thinking, innovative problem-solving approaches, and a sustained passion for coding and data, I am equipped to deliver innovative solutions within the field of data science.
 
-  I am passionate about computer science and programming, with a strong interest in the world of data. Along this journey, I have 
-  gained experience teaching concepts such as programming algorithms, Visual Basic, C, and databases. I also have about one year of 
-  hands-on experience in data analysis. These days, I am focused on transforming data into practical insights to support better 
-  decision-making, combining strong logic, creative problem-solving skills, and a true love for coding and data.
+
 
 🎯 **My Goals:**
 - **Mastering advanced programming techniques**
