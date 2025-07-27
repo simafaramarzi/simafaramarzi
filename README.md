@@ -12,11 +12,12 @@
 
 **Skills**
 - **Python, Visual Basic, SQL**
-- **Tableau, Streamlit**
-- **Regression, Classification**
-- **Clustering**
-- **Predictive Modelling**
-- **Data Pipelines, Storage, Analytics, ML integration via AWS Academy course**
+- **Tableau, Streamlit & Plotly Dashboard**
+- **Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering**
+- **Tableau, Streamlit, Plotly – Interactive dashboards for insights & reporting**
+- **regression, classification, clustering, Model Evaluation**
+- **AWS Data Engineering (Data Pipelines, Storage, Analytics, ML Integration – via AWS Academy**
+- **AWS, Git, Jupyter Notebooks, Microsoft Office Suite**
 
  
    
