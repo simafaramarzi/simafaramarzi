@@ -1,29 +1,38 @@
-# Hello! 👋 I'm Sima
+# Hi, I'm Sima 👋
 
- I have a profound interest in computer science and programming, with a dedicated focus on data science and advanced data analytics. With over one year of practical experience in data analysis, I have contributed to projects involving data cleaning, time series modeling, and the development of interactive dashboards aimed at extracting actionable insights to support strategic decision-making processes. My primary objective is to transform raw data into meaningful and usable information that enhances organizational performance. By leveraging rigorous analytical thinking, innovative problem-solving approaches, and a sustained passion for coding and data, I am equipped to deliver innovative solutions within the field of data science.
+Data professional based in Berlin, working across analytics, machine learning, and data engineering. I like taking messy, real-world data and turning it into something people can actually use — a dashboard, a model, a pipeline, a number that changes a decision.
 
+**A few things I've built:**
+- Trained a neural network to **97.62% accuracy** on MNIST digit recognition (ReLU vs. Tanh comparison)
+- Found **€692,497** in unrealized profit potential in a UK pet retail dataset through profitability analysis
+- Built a Berlin housing price model (R² = 0.47) using regression on real listing data
+- Segmented e-commerce customers with K-Means clustering (Silhouette Score: 0.248)
+- Designed a real-time data pipeline architecture on AWS for real estate analytics
 
+**Background:** M.Sc. Data Science (Arden University Berlin) + B.Sc. Software Engineering. Before that, I worked as a Data Analyst and taught SQL/Excel professionally — so I care as much about explaining data clearly as I do about analyzing it correctly.
 
-🎯 **My Goals:**
-- **Mastering advanced programming techniques**
-- **Designing and delivering impactful data-driven projects**
-- **Exploring and adopting cutting-edge technologies**
+## 🛠️ Skills
 
+**Languages & Tools:** Python, SQL, Visual Basic, Git, Jupyter
+**Data Analysis:** EDA, Data Cleaning, Feature Engineering, Time Series
+**Machine Learning:** Regression, Classification, Clustering, Model Evaluation
+**Visualization:** Tableau, Streamlit, Plotly
+**Cloud:** AWS (Data Pipelines, Storage, Analytics, ML Integration)
 
-**Skills**
-- **Python, Visual Basic, SQL**
-- **Tableau, Streamlit & Plotly Dashboard**
-- **Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering**
-- **Tableau, Streamlit, Plotly – Interactive dashboards for insights & reporting**
-- **regression, classification, clustering, Model Evaluation**
-- **AWS Data Engineering (Data Pipelines, Storage, Analytics, ML Integration – via AWS Academy**
-- **AWS, Git, Jupyter Notebooks, Microsoft Office Suite**
+## 📌 Featured Projects
 
- 
-   
-Access me through: 
+| Project | What it does |
+|---|---|
+| [MNIST Digit Recognition](https://github.com/simafaramarzi/MNIST-Digit-Recognition-A-Neural-Network-Approach-with-ReLU-and-Tanh) | Neural network comparing ReLU and Tanh activations — 97.62% accuracy |
+| [Pet Retail Profitability Dashboard](https://github.com/simafaramarzi/Profitability-Analysis-and-Interactive-Dashboard-for-Pet-Retail-Stores-in-the-UK) | Interactive dashboard identifying €692,497 in profit opportunities |
+| [Berlin Housing Market](https://github.com/simafaramarzi/Berlin-Housing-Market.ipynb) | Price prediction model for the Berlin real estate market |
+| [Customer Segmentation](https://github.com/simafaramarzi/Customer-Segmentation-in-E-Commerce-Using-Age-and-Annual-Income) | K-Means clustering of e-commerce customers by age and income |
+| [Age-Weighted Purchase Probability](https://github.com/simafaramarzi/Age-Weighted-Purchase-Probability-Analysis) | Statistical model estimating purchase likelihood by age group |
+| [AWS Real Estate Pipeline](https://github.com/simafaramarzi/Real-Time-Data-Integration-and-Analytics-in-Real-Estate-Using-AWS-Cloud-Services) | Real-time data pipeline architecture for real estate analytics on AWS |
 
-- ✉️️ simafaramarzi780@gmail.com
-- 🔗 www.linkedin.com/in/sima-faramarzi
+## 📫 Reach me
 
-**Thank you for taking the time to visit my profile**
+- ✉️ simafaramarzi780@gmail.com
+- 🔗 [linkedin.com/in/sima-faramarzi](https://www.linkedin.com/in/sima-faramarzi)
+
+Open to Data Analyst, Data Scientist, and Data Engineer roles.
