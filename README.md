@@ -53,13 +53,21 @@ Neural-network activation comparison, 97.62% test accuracy with ReLU.
 ## Skills
 
 **Languages & Tools:** Python (pandas, NumPy), SQL, Git, Jupyter, Visual Basic
+
 **Data Analysis:** EDA, Data Cleaning, Data Validation, Feature Engineering, Time Series, KPI Reporting
+
 **Data Engineering:** ETL/ELT, Data Modeling, Data Quality
+
 **Machine Learning:** Regression, Classification, Clustering (K-Means, DBSCAN), PCA, Model Evaluation, scikit-learn
+
 **LLM & Automation:** LLM agent with OpenAI function calling (natural language to SQL)
+
 **Visualization & BI:** Power BI, Power Query, Tableau, Plotly, Streamlit, Excel
+
 **Statistics:** Hypothesis Testing, A/B Testing (fundamentals)
+
 **Cloud:** AWS (architecture design: Lambda, Kinesis, ECR)
+
 **Learning:** dbt, Airflow, Snowflake, PySpark
 
 ---
