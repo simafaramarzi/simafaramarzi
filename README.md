@@ -21,9 +21,10 @@ An LLM agent using OpenAI function calling that turns plain-English questions in
 `Python · OpenAI API · SQLite · function calling`
 → [Repo](https://github.com/simafaramarzi/natural-language-data-query-agent-)
 
-### 3. UK Pet Retail Dashboard ("Fury Friends")
-Interactive Plotly dashboard exploring sales, customer and product performance. Findings are based on a sample dataset.
-`Python · Plotly · pandas`
+### 3. Profitability Analysis: UK Pet Retail ("Fury Friends")
+Profit analysis by store, pet category and month, with Plotly charts and an area-by-pet heatmap. Cats and dogs are the leading profit contributors, and the top store by total profit is Dudley. Based on a provided sample dataset.
+`Python · pandas · Plotly · seaborn`
+→ [Repo](https://github.com/simafaramarzi/Profitability-Analysis-and-Interactive-Dashboard-for-Pet-Retail-Stores-in-the-UK)
 
 ### 4. Berlin Housing Market Analysis
 Cleaning, feature engineering (price per area, log-transformed target) and a baseline Linear Regression on Berlin listings (R² = 0.47). Tree-based models and cross-validation are planned next steps.
@@ -35,9 +36,10 @@ Clustering of e-commerce customers using age, annual income and spending score: 
 `Python · pandas · scikit-learn · seaborn`
 → [Repo](https://github.com/simafaramarzi/Customer-Segmentation-in-E-Commerce-Using-Age-and-Annual-Income)
 
-### 6. Real-Time Data Integration: AWS Architecture Design
-Architecture design (Lambda, Kinesis, ECR) for a real-time real-estate data pipeline. Design only, not deployed.
-`AWS · system design`
+### 6. Cloud Data Pipeline Architecture on AWS (design only)
+Architecture design for a real-estate company: ingestion (Kinesis, DMS, IoT Core, AppFlow), S3 data lake with Glue and Lake Formation, analytics with Athena, Redshift and SageMaker, and a security layer (IAM, KMS, GuardDuty). Design document only, not deployed or coded.
+`AWS · data architecture`
+→ [Repo](https://github.com/simafaramarzi/Real-Time-Data-Integration-and-Analytics-in-Real-Estate-Using-AWS-Cloud-Services)
 
 ### 7. MNIST: ReLU vs Tanh
 Keras neural network (3 hidden layers, 10 epochs, Adam) comparing ReLU and Tanh on convergence speed, accuracy and overfitting. ReLU reached 97.62% train / ~97.8% validation accuracy and converged faster. Tanh reached 97.29% train / ~97.7% validation.
@@ -61,7 +63,6 @@ Conditional and joint probability by age group on simulated data (30,000 samples
 
 **Languages & Tools:** Python (pandas, NumPy), SQL, Git, Jupyter, Visual Basic
 
-
 **Data Analysis:** EDA, Data Cleaning, Data Validation, Feature Engineering, Time Series, KPI Reporting
 
 **Data Engineering:** ETL/ELT, Data Modeling, Data Quality
@@ -74,7 +75,7 @@ Conditional and joint probability by age group on simulated data (30,000 samples
 
 **Statistics:** Hypothesis Testing, A/B Testing (fundamentals)
 
-**Cloud:** AWS (architecture design: Lambda, Kinesis, ECR)
+**Cloud:** AWS (architecture design: S3, Glue, Kinesis, Athena, Redshift)
 
 **Learning:** dbt, Airflow, Snowflake, PySpark
 
