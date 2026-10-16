@@ -13,7 +13,7 @@ Data professional based in Berlin, working across analytics, machine learning, a
 
 ## 🛠️ Skills
 
-**Languages & Tools:** Python (pandas, NumPy), SQL, Git, Jupyter, Visual Basic
+**Languages & Tools:** Python (pandas, NumPy), SQL, Git, Jupyter, Visual Basic.
 **Data Analysis:** EDA, Data Cleaning, Data Validation, Feature Engineering, Time Series, KPI Reporting
 **Data Engineering:** ETL/ELT, Data Modeling, Data Quality
 **Machine Learning:** Regression, Classification, Clustering (K-Means, DBSCAN), PCA, Model Evaluation, scikit-learn
