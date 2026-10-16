@@ -1,50 +1,68 @@
-# Hi, I'm Sima 👋
+# Hi, I'm Sima Faramarzi 👋
 
-Data professional based in Berlin, working across analytics, machine learning, and data engineering. I like taking messy, real-world data and turning it into something people can actually use — a dashboard, a model, a pipeline, a number that changes a decision.
+**Data Analyst · M.Sc. Data Science (Arden University Berlin, 2026) · Berlin, Germany**
 
-**A few things I've built:**
-- Trained a neural network to **97.62% accuracy** on MNIST digit recognition (ReLU vs. Tanh comparison)
-- Found **€692,497** in unrealized profit potential in a UK pet retail dataset through profitability analysis
-- Built a Berlin housing price model (R² = 0.47) using regression on real listing data
-- Segmented e-commerce customers with K-Means clustering (Silhouette Score: 0.248)
-- Designed a real-time data pipeline architecture on AWS for real estate analytics
+Data analyst with about 4 years of experience in SQL, Python, Power BI and KPI reporting. I turn messy data into clear metrics and decisions, and I'm now extending that into analytics engineering and LLM-assisted analytics.
 
-**Background:** M.Sc. Data Science (Arden University Berlin) + B.Sc. Software Engineering. Before that, I worked as a Data Analyst and taught SQL/Excel professionally — so I care as much about explaining data clearly as I do about analyzing it correctly.
+📍 Berlin · 🗣 English (B2), German (A2, actively improving) · 💼 Open to Data Analyst, BI Analyst, Analytics Engineer and Junior Data Scientist roles
 
-## 🛠️ Skills
+---
 
-**Languages & Tools:** Python (pandas, NumPy), SQL, Git, Jupyter, Visual Basic.
+## Featured projects
 
+### 1. Customer Segmentation for Marketing Prioritisation (M.Sc. thesis project)
+RFM + CLV features, PCA (22 components, 95% variance) and three clustering methods compared (K-Means, Agglomerative/Ward, DBSCAN) on 4,999 customers.
+Best model: Agglomerative, 2 clusters (silhouette 0.324, Davies-Bouldin 1.07). DBSCAN found no meaningful structure. Cluster separation is moderate, and the repo documents the limitations.
+`Python · pandas · scikit-learn · PCA`
+→ [Repo](https://github.com/simafaramarzi/Optimizing-Marketing-Strategies-Using-Customer-Segmentation-ML)
+
+### 2. Natural-Language Data Query Agent (LLM + SQL)
+An LLM agent using OpenAI function calling that turns plain-English questions into SQL over a Berlin housing dataset (SQLite). Destructive statements are rejected before they reach the database, and every query is logged.
+`Python · OpenAI API · SQLite · function calling`
+→ [Repo](https://github.com/simafaramarzi/natural-language-data-query-agent-)
+
+### 3. UK Pet Retail Dashboard ("Fury Friends")
+Interactive Plotly dashboard exploring sales, customer and product performance. Findings are based on a sample dataset.
+`Python · Plotly · pandas`
+
+### 4. Berlin Housing Market Analysis
+Exploratory analysis and baseline regression model (R² = 0.47), a starting point for feature engineering and model comparison.
+`Python · pandas · scikit-learn`
+
+### 5. Customer Segmentation in E-Commerce
+K-Means (K=4) vs DBSCAN vs hierarchical clustering, compared with silhouette scores (best 0.248). Focus on method comparison and honest evaluation.
+`Python · scikit-learn`
+
+### 6. Real-Time Data Integration: AWS Architecture Design
+Architecture design (Lambda, Kinesis, ECR) for a real-time real-estate data pipeline. Design only, not deployed.
+`AWS · system design`
+
+### 7. MNIST: ReLU vs Tanh
+Neural-network activation comparison, 97.62% test accuracy with ReLU.
+`Python · deep learning`
+
+---
+
+## Currently building
+- **E-commerce analytics project (Olist dataset):** SQL modelling + dashboard, with a teammate
+- **ETL simulation project:** a small end-to-end pipeline with data-quality checks
+- **Learning:** dbt, Airflow, Snowflake, PySpark
+
+---
+
+## Skills
+
+**Languages & Tools:** Python (pandas, NumPy), SQL, Git, Jupyter, Visual Basic
 **Data Analysis:** EDA, Data Cleaning, Data Validation, Feature Engineering, Time Series, KPI Reporting
-
 **Data Engineering:** ETL/ELT, Data Modeling, Data Quality
-
 **Machine Learning:** Regression, Classification, Clustering (K-Means, DBSCAN), PCA, Model Evaluation, scikit-learn
-
 **LLM & Automation:** LLM agent with OpenAI function calling (natural language to SQL)
-
 **Visualization & BI:** Power BI, Power Query, Tableau, Plotly, Streamlit, Excel
-
 **Statistics:** Hypothesis Testing, A/B Testing (fundamentals)
-
 **Cloud:** AWS (architecture design: Lambda, Kinesis, ECR)
-
 **Learning:** dbt, Airflow, Snowflake, PySpark
 
-## 📌 Featured Projects
+---
 
-| Project | What it does |
-|---|---|
-| [MNIST Digit Recognition](https://github.com/simafaramarzi/MNIST-Digit-Recognition-A-Neural-Network-Approach-with-ReLU-and-Tanh) | Neural network comparing ReLU and Tanh activations — 97.62% accuracy |
-| [Pet Retail Profitability Dashboard](https://github.com/simafaramarzi/Profitability-Analysis-and-Interactive-Dashboard-for-Pet-Retail-Stores-in-the-UK) | Interactive dashboard identifying €692,497 in profit opportunities |
-| [Berlin Housing Market](https://github.com/simafaramarzi/Berlin-Housing-Market.ipynb) | Price prediction model for the Berlin real estate market |
-| [Customer Segmentation](https://github.com/simafaramarzi/Customer-Segmentation-in-E-Commerce-Using-Age-and-Annual-Income) | K-Means clustering of e-commerce customers by age and income |
-| [Age-Weighted Purchase Probability](https://github.com/simafaramarzi/Age-Weighted-Purchase-Probability-Analysis) | Statistical model estimating purchase likelihood by age group |
-| [AWS Real Estate Pipeline](https://github.com/simafaramarzi/Real-Time-Data-Integration-and-Analytics-in-Real-Estate-Using-AWS-Cloud-Services) | Real-time data pipeline architecture for real estate analytics on AWS |
-
-## 📫 Reach me
-
-- ✉️ simafaramarzi780@gmail.com
-- 🔗 [linkedin.com/in/sima-faramarzi](https://www.linkedin.com/in/sima-faramarzi)
-
-Open to Data Analyst, Data Scientist, and Data Engineer roles.
+## Contact
+📧 simafaramarzi780@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/simafaramarzi)
