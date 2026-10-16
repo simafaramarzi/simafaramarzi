@@ -26,33 +26,41 @@ Interactive Plotly dashboard exploring sales, customer and product performance. 
 `Python · Plotly · pandas`
 
 ### 4. Berlin Housing Market Analysis
-Exploratory analysis and baseline regression model (R² = 0.47), a starting point for feature engineering and model comparison.
-`Python · pandas · scikit-learn`
+Cleaning, feature engineering (price per area, log-transformed target) and a baseline Linear Regression on Berlin listings (R² = 0.47). Tree-based models and cross-validation are planned next steps.
+`Python · pandas · scikit-learn · statsmodels`
+→ [Repo](https://github.com/simafaramarzi/Berlin-Housing-Market.ipynb)
 
 ### 5. Customer Segmentation in E-Commerce
-K-Means (K=4) vs DBSCAN vs hierarchical clustering, compared with silhouette scores (best 0.248). Focus on method comparison and honest evaluation.
-`Python · scikit-learn`
+Clustering of e-commerce customers using age, annual income and spending score: K-Means (K=4 via elbow method), DBSCAN and hierarchical clustering. K-Means silhouette score: 0.248, which indicates moderate separation.
+`Python · pandas · scikit-learn · seaborn`
+→ [Repo](https://github.com/simafaramarzi/Customer-Segmentation-in-E-Commerce-Using-Age-and-Annual-Income)
 
 ### 6. Real-Time Data Integration: AWS Architecture Design
 Architecture design (Lambda, Kinesis, ECR) for a real-time real-estate data pipeline. Design only, not deployed.
 `AWS · system design`
 
 ### 7. MNIST: ReLU vs Tanh
-Neural-network activation comparison, 97.62% test accuracy with ReLU.
-`Python · deep learning`
+Keras neural network (3 hidden layers, 10 epochs, Adam) comparing ReLU and Tanh on convergence speed, accuracy and overfitting. ReLU reached 97.62% train / ~97.8% validation accuracy and converged faster. Tanh reached 97.29% train / ~97.7% validation.
+`Python · TensorFlow/Keras · scikit-learn`
+→ [Repo](https://github.com/simafaramarzi/MNIST-Digit-Recognition-A-Neural-Network-Approach-with-ReLU-and-Tanh)
+
+### 8. Probability Exercise: Purchase Probability by Age Group
+Conditional and joint probability by age group on simulated data (30,000 samples). A probability exercise, not a real-world analysis.
+`Python · NumPy · pandas · matplotlib`
+→ [Repo](https://github.com/simafaramarzi/Age-Weighted-Purchase-Probability-Analysis)
 
 ---
 
 ## Currently building
 - **E-commerce analytics project (Olist dataset):** SQL modelling + dashboard, with a teammate
 - **ETL simulation project:** a small end-to-end pipeline with data-quality checks
-- **Learning:** dbt, Airflow, Snowflake, PySpark
 
 ---
 
 ## Skills
 
 **Languages & Tools:** Python (pandas, NumPy), SQL, Git, Jupyter, Visual Basic
+
 
 **Data Analysis:** EDA, Data Cleaning, Data Validation, Feature Engineering, Time Series, KPI Reporting
 
